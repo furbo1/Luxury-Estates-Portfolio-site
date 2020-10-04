@@ -1,17 +1,17 @@
 body {
-    background-image: url('./img/cool-background.png');
+    background-image: url('../img/cool-background.png');
     background-repeat: repeat-x;
     
     
 }
 
 .carousel {
-    background-image: url('./img/cool-background.png');
+    background-image: url('../img/cool-background.png');
 
 }
 
 .card-deck {
-    background-image: url('./img/cool-background.png');
+    background-image: url('../img/cool-background.png');
     background-repeat: repeat-x;
     background-size: cover;
     /* padding:0.5rem; */
@@ -20,7 +20,7 @@ body {
 }
 
 footer {
-    background-image: url('./img/cool-background.png');
+    background-image: url('../img/cool-background.png');
     /* background-repeat: repeat-x; */
     background-repeat: repeat-x;
     background-size: cover;
