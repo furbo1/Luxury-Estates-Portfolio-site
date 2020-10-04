@@ -1,0 +1,45 @@
+body {
+    background-image: url('./img/cool-background.png');
+    background-repeat: repeat-x;
+    
+    
+}
+
+.carousel {
+    background-image: url('./img/cool-background.png');
+
+}
+
+.card-deck {
+    background-image: url('./img/cool-background.png');
+    background-repeat: repeat-x;
+    background-size: cover;
+    /* padding:0.5rem; */
+    
+    
+}
+
+footer {
+    background-image: url('./img/cool-background.png');
+    /* background-repeat: repeat-x; */
+    background-repeat: repeat-x;
+    background-size: cover;
+    width: 100%;
+}
+
+
+.luxury {
+    color: cyan !important;
+}
+
+.orange {
+    color: brown;
+}
+
+.img-fluid {
+    min-height: 120px !important;
+}
+
+#readMore {
+    display: none;
+}
