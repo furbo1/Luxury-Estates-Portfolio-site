@@ -15,7 +15,12 @@ button > img{
     color: cyan !important;
 }
 
+form {
+    margin : 20px;
+}
+
 footer {
+
     background-image: url('../img/cool-background.png');
     background-repeat: repeat-x;
     background-size: cover;
